@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Daniel Garzón</h1>
-<h3 align="center">Un apasionado por el desarrollo Backend</h3>
+<h3 align="center">Un apasionado por el desarrollo</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo web, Bases de datos, Frameworks**
 
