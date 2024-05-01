@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo web, Bases de datos, Frameworks**
 
-- 💬 Puedes preguntarme sobre **python, Java, C++, SQL, Excel**
+- 💬 Puedes preguntarme sobre **python, Java, C++, SQL, Excel y RPA**
 
 - 📫 Como llegar a mi **dangarzon2003@gmail.com**
 
